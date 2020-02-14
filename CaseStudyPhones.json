@@ -1,5 +1,5 @@
 [
-  // Samsung
+  /* Samsung */
   {
     "Product": "S9",
     "Graphic": "Snapdragon 890",
@@ -50,7 +50,7 @@
     "Description": "Samsung Phones, Product of South Korea",
     "Brand": "Samsung"
   },
-  // Apple iPhone
+  /* Apple iPhone */
   {
     "Product": "iPhone SE",
     "Graphic": "A9 Chip",
@@ -101,7 +101,7 @@
     "Description": "Apple iPhone, Product of USA",
     "Brand": "iPhone"
   },
-  // LG
+  /* LG */
   {
     "Product": "V30",
     "Graphic": "Snapdragon 835",
