@@ -1,4 +1,5 @@
 [
+  // Samsung
   {
     "Product": "S9",
     "Graphic": "Snapdragon 890",
@@ -6,7 +7,7 @@
     "MSRP": 1.13,
     "QtyOnHand": 1,
     "QtyOnBackOrder": 100,
-    "Description": "a",
+    "Description": "Samsung Phones, Product of South Korea",
     "Brand": "Samsung"
   },
   {
@@ -16,7 +17,7 @@
     "MSRP": 1.13,
     "QtyOnHand": 1,
     "QtyOnBackOrder": 100,
-    "Description": "a",
+    "Description": "Samsung Phones, Product of South Korea",
     "Brand": "Samsung"
   },
   {
@@ -26,7 +27,7 @@
     "MSRP": 1.13,
     "QtyOnHand": 1,
     "QtyOnBackOrder": 100,
-    "Description": "a",
+    "Description": "Samsung Phones, Product of South Korea",
     "Brand": "Samsung"
   },
   {
@@ -36,7 +37,7 @@
     "MSRP": 1.13,
     "QtyOnHand": 1,
     "QtyOnBackOrder": 100,
-    "Description": "a",
+    "Description": "Samsung Phones, Product of South Korea",
     "Brand": "Samsung"
   },
   {
@@ -46,9 +47,10 @@
     "MSRP": 1.13,
     "QtyOnHand": 1,
     "QtyOnBackOrder": 100,
-    "Description": "a",
+    "Description": "Samsung Phones, Product of South Korea",
     "Brand": "Samsung"
   },
+  // Apple iPhone
   {
     "Product": "iPhone SE",
     "Graphic": "A9 Chip",
@@ -56,7 +58,7 @@
     "MSRP": 1.13,
     "QtyOnHand": 1,
     "QtyOnBackOrder": 100,
-    "Description": "a",
+    "Description": "Apple iPhone, Product of USA",
     "Brand": "iPhone"
   },
   {
@@ -66,7 +68,7 @@
     "MSRP": 1.13,
     "QtyOnHand": 1,
     "QtyOnBackOrder": 100,
-    "Description": "a",
+    "Description": "Apple iPhone, Product of USA",
     "Brand": "iPhone"
   },
   {
@@ -76,7 +78,7 @@
     "MSRP": 1.13,
     "QtyOnHand": 1,
     "QtyOnBackOrder": 100,
-    "Description": "a",
+    "Description": "Apple iPhone, Product of USA",
     "Brand": "iPhone"
   },
   {
@@ -86,7 +88,7 @@
     "MSRP": 1.13,
     "QtyOnHand": 1,
     "QtyOnBackOrder": 100,
-    "Description": "a",
+    "Description": "Apple iPhone, Product of USA",
     "Brand": "iPhone"
   },
   {
@@ -96,9 +98,10 @@
     "MSRP": 1.13,
     "QtyOnHand": 1,
     "QtyOnBackOrder": 100,
-    "Description": "a",
+    "Description": "Apple iPhone, Product of USA",
     "Brand": "iPhone"
   },
+  // LG
   {
     "Product": "V30",
     "Graphic": "Snapdragon 835",
@@ -106,7 +109,7 @@
     "MSRP": 1.13,
     "QtyOnHand": 1,
     "QtyOnBackOrder": 100,
-    "Description": "a",
+    "Description": "LG Phones, Product of South Korea",
     "Brand": "LG"
   },
   {
@@ -116,7 +119,7 @@
     "MSRP": 1.13,
     "QtyOnHand": 1,
     "QtyOnBackOrder": 100,
-    "Description": "a",
+    "Description": "LG Phones, Product of South Korea",
     "Brand": "LG"
   },
   {
@@ -126,7 +129,7 @@
     "MSRP": 1.13,
     "QtyOnHand": 1,
     "QtyOnBackOrder": 100,
-    "Description": "a",
+    "Description": "LG Phones, Product of South Korea",
     "Brand": "LG"
   },
   {
@@ -136,7 +139,7 @@
     "MSRP": 1.13,
     "QtyOnHand": 1,
     "QtyOnBackOrder": 100,
-    "Description": "a",
+    "Description": "LG Phones, Product of South Korea",
     "Brand": "LG"
   },
   {
@@ -146,7 +149,7 @@
     "MSRP": 1.13,
     "QtyOnHand": 1,
     "QtyOnBackOrder": 100,
-    "Description": "a",
+    "Description": "LG Phones, Product of South Korea",
     "Brand": "LG"
   }
 ]
