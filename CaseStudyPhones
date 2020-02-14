@@ -1,0 +1,155 @@
+[
+  // Samsung
+  {
+    "Product": "S9",
+    "Graphic": "Snapdragon 890",
+    "CostPrice": 1.00,
+    "MSRP": 1.13,
+    "QtyOnHand": 1,
+    "QtyOnBackOrder": 100,
+    "Description": "a",
+    "Brand": "Samsung"
+  },
+  {
+    "Product": "S10e",
+    "Graphic": "Snapdragon 980",
+    "CostPrice": 1.00,
+    "MSRP": 1.13,
+    "QtyOnHand": 1,
+    "QtyOnBackOrder": 100,
+    "Description": "a",
+    "Brand": "Samsung"
+  },
+  {
+    "Product": "S10",
+    "Graphic": "Snapdragon 990",
+    "CostPrice": 1.00,
+    "MSRP": 1.13,
+    "QtyOnHand": 1,
+    "QtyOnBackOrder": 100,
+    "Description": "a",
+    "Brand": "Samsung"
+  },
+  {
+    "Product": "S10+",
+    "Graphic": "Snapdragon 999",
+    "CostPrice": 1.00,
+    "MSRP": 1.13,
+    "QtyOnHand": 1,
+    "QtyOnBackOrder": 100,
+    "Description": "a",
+    "Brand": "Samsung"
+  },
+  {
+    "Product": "S10 Note",
+    "Graphic": "Snapdragon 999",
+    "CostPrice": 1.00,
+    "MSRP": 1.13,
+    "QtyOnHand": 1,
+    "QtyOnBackOrder": 100,
+    "Description": "a",
+    "Brand": "Samsung"
+  },
+  // Apple iPhone
+  {
+    "Product": "iPhone SE",
+    "Graphic": "A9 Chip",
+    "CostPrice": 1.00,
+    "MSRP": 1.13,
+    "QtyOnHand": 1,
+    "QtyOnBackOrder": 100,
+    "Description": "a",
+    "Brand": "iPhone"
+  },
+  {
+    "Product": "iPhone Xr",
+    "Graphic": "A12 Bionic Chip",
+    "CostPrice": 1.00,
+    "MSRP": 1.13,
+    "QtyOnHand": 1,
+    "QtyOnBackOrder": 100,
+    "Description": "a",
+    "Brand": "iPhone"
+  },
+  {
+    "Product": "iPhone 11",
+    "Graphic": "A13 Bionic chip",
+    "CostPrice": 1.00,
+    "MSRP": 1.13,
+    "QtyOnHand": 1,
+    "QtyOnBackOrder": 100,
+    "Description": "a",
+    "Brand": "iPhone"
+  },
+  {
+    "Product": "iPhone 11 Pro",
+    "Graphic": "A13 Bionic chip",
+    "CostPrice": 1.00,
+    "MSRP": 1.13,
+    "QtyOnHand": 1,
+    "QtyOnBackOrder": 100,
+    "Description": "a",
+    "Brand": "iPhone"
+  },
+  {
+    "Product": "iPhone 11 Pro Max",
+    "Graphic": "A13 Bionic chip",
+    "CostPrice": 1.00,
+    "MSRP": 1.13,
+    "QtyOnHand": 1,
+    "QtyOnBackOrder": 100,
+    "Description": "a",
+    "Brand": "iPhone"
+  },
+  // LG
+  {
+    "Product": "V30",
+    "Graphic": "Snapdragon 835",
+    "CostPrice": 1.00,
+    "MSRP": 1.13,
+    "QtyOnHand": 1,
+    "QtyOnBackOrder": 100,
+    "Description": "a",
+    "Brand": "LG"
+  },
+  {
+    "Product": "K20",
+    "Graphic": "Mediatek MT6739",
+    "CostPrice": 1.00,
+    "MSRP": 1.13,
+    "QtyOnHand": 1,
+    "QtyOnBackOrder": 100,
+    "Description": "a",
+    "Brand": "LG"
+  },
+  {
+    "Product": "K30",
+    "Graphic": "Snapdragon 425",
+    "CostPrice": 1.00,
+    "MSRP": 1.13,
+    "QtyOnHand": 1,
+    "QtyOnBackOrder": 100,
+    "Description": "a",
+    "Brand": "LG"
+  },
+  {
+    "Product": "Q70",
+    "Graphic": "Snapdragon SM6150",
+    "CostPrice": 1.00,
+    "MSRP": 1.13,
+    "QtyOnHand": 1,
+    "QtyOnBackOrder": 100,
+    "Description": "a",
+    "Brand": "LG"
+  },
+  {
+    "Product": "G8X ThinQ Dual Screen",
+    "Graphic": "Snapdragon 855",
+    "CostPrice": 1.00,
+    "MSRP": 1.13,
+    "QtyOnHand": 1,
+    "QtyOnBackOrder": 100,
+    "Description": "a",
+    "Brand": "LG"
+  }
+]
