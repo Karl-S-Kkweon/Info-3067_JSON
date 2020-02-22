@@ -12,7 +12,7 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "This is wonderful Efficiency-focused Bulk Carrier for Cape canal with 171,000 Deadweight Tonnage.",
-    "Company": "Sungdong Shipbuilding and Marine engineering"
+    "Company": "Sungdong Shipbuilding and Marine Engineering"
   },
   {
     "HULL NO": "SD2000",
@@ -27,7 +27,7 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "Desc for COT.",
-    "Company": "Sungdong Shipbuilding and Marine engineering"
+    "Company": "Sungdong Shipbuilding and Marine Engineering"
   },
   {
     "HULL NO": "SD3000",
@@ -57,7 +57,7 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "Desc for Container.",
-    "Company": "Sungdong Shipbuilding and Marine engineering"
+    "Company": "Sungdong Shipbuilding and Marine Engineering"
   },
   {
     "HULL NO": "SD7000",
@@ -72,7 +72,7 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "Desc for Purse Seine.",
-    "Company": "Sungdong Shipbuilding and Marine engineering"
+    "Company": "Sungdong Shipbuilding and Marine Engineering"
   },
   {
     "HULL NO": "SSH10000",
@@ -177,6 +177,6 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "Please enjoy our high quality Bulk Carrier for Cape canal with 175,000 Deadweight Tonnage.",
-    "Company": "Daewoo Shipbuilding and Marine engineering"
+    "Company": "Daewoo Shipbuilding and Marine Engineering"
   }
 ]
