@@ -60,6 +60,21 @@
     "Company": "Sungdong Shipbuilding and Marine Engineering"
   },
   {
+    "HULL NO": "SD5000",
+    "TYPE": "Container",
+    "SIZE": "Cape Size",
+    "ENGINE": "Man B&W 6S70MC",
+    "GENERATOR": "Himsen",
+    "SPEED": 14.6,
+    "CAPACITY": 171000,
+    "BASEPRICE": 5000000.00,
+    "MSRP": 5650000.00,
+    "QtyOnHand": 0,
+    "QtyOnBackOrder": 1,
+    "Description": "Desc for Container.",
+    "Company": "Sungdong Shipbuilding and Marine Engineering"
+  },
+  {
     "HULL NO": "SD7000",
     "TYPE": "Purse Seine",
     "SIZE": "Cape Size",
@@ -150,6 +165,21 @@
     "Company": "Samsung Heavy Indusry"
   },
   {
+    "HULL NO": "SSH60000",
+    "TYPE": "FPSO",
+    "SIZE": "Cape Size",
+    "ENGINE": "Man B&W 10S85MC",
+    "GENERATOR": "Himsen",
+    "SPEED": 10.5,
+    "CAPACITY": 175000,
+    "BASEPRICE": 66000000.00,
+    "MSRP": 74580000.00,
+    "QtyOnHand": 0,
+    "QtyOnBackOrder": 1,
+    "Description": "Please enjoy our high quality Bulk Carrier for Cape canal with 175,000 Deadweight Tonnage.",
+    "Company": "Samsung Heavy Indusry"
+  },
+  {
     "HULL NO": "HD1001",
     "TYPE": "Bulk Carrier",
     "SIZE": "Cape Size",
@@ -165,7 +195,7 @@
     "Company": "Hyundai Heavy Industry"
   },
   {
-    "HULL NO": "DS1001",
+    "HULL NO": "HD2001",
     "TYPE": "Bulk Carrier",
     "SIZE": "Cape Size",
     "ENGINE": "Man B&W 6S70MC",
@@ -177,6 +207,66 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "Please enjoy our high quality Bulk Carrier for Cape canal with 175,000 Deadweight Tonnage.",
-    "Company": "Daewoo Shipbuilding and Marine Engineering"
+    "Company": "Hyundai Heavy Industry"
+  },
+   {
+    "HULL NO": "HD3001",
+    "TYPE": "Bulk Carrier",
+    "SIZE": "Cape Size",
+    "ENGINE": "Man B&W 6S70MC",
+    "GENERATOR": "Himsen",
+    "SPEED": 14.8,
+    "CAPACITY": 175000,
+    "BASEPRICE": 6000000.00,
+    "MSRP": 6780000.00,
+    "QtyOnHand": 0,
+    "QtyOnBackOrder": 1,
+    "Description": "Please enjoy our high quality Bulk Carrier for Cape canal with 175,000 Deadweight Tonnage.",
+    "Company": "Hyundai Heavy Industry"
+  },
+   {
+    "HULL NO": "HD4001",
+    "TYPE": "Bulk Carrier",
+    "SIZE": "Cape Size",
+    "ENGINE": "Man B&W 6S70MC",
+    "GENERATOR": "Himsen",
+    "SPEED": 14.8,
+    "CAPACITY": 175000,
+    "BASEPRICE": 6000000.00,
+    "MSRP": 6780000.00,
+    "QtyOnHand": 0,
+    "QtyOnBackOrder": 1,
+    "Description": "Please enjoy our high quality Bulk Carrier for Cape canal with 175,000 Deadweight Tonnage.",
+    "Company": "Hyundai Heavy Industry"
+  },
+   {
+    "HULL NO": "HD5001",
+    "TYPE": "Bulk Carrier",
+    "SIZE": "Cape Size",
+    "ENGINE": "Man B&W 6S70MC",
+    "GENERATOR": "Himsen",
+    "SPEED": 14.8,
+    "CAPACITY": 175000,
+    "BASEPRICE": 6000000.00,
+    "MSRP": 6780000.00,
+    "QtyOnHand": 0,
+    "QtyOnBackOrder": 1,
+    "Description": "Please enjoy our high quality Bulk Carrier for Cape canal with 175,000 Deadweight Tonnage.",
+    "Company": "Hyundai Heavy Industry"
+  },
+  {
+    "HULL NO": "HD6001",
+    "TYPE": "Bulk Carrier",
+    "SIZE": "Cape Size",
+    "ENGINE": "Man B&W 6S70MC",
+    "GENERATOR": "Himsen",
+    "SPEED": 14.8,
+    "CAPACITY": 175000,
+    "BASEPRICE": 6000000.00,
+    "MSRP": 6780000.00,
+    "QtyOnHand": 0,
+    "QtyOnBackOrder": 1,
+    "Description": "Please enjoy our high quality Bulk Carrier for Cape canal with 175,000 Deadweight Tonnage.",
+    "Company": "Hyundai Heavy Industry"
   }
 ]
