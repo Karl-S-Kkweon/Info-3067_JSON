@@ -47,7 +47,7 @@
   {
     "HULL NO": "SD4000",
     "TYPE": "8.8K TEU Container",
-    "SIZE": "Panama",
+    "SIZE": "New Panamax",
     "ENGINE": "MAN B&W 9S90 ME-C9.2 Tier II",
     "GENERATOR": "Himsen",
     "SPEED": 23.6,
@@ -75,8 +75,8 @@
     "Company": "Sungdong Shipbuilding and Marine Engineering"
   },
   {
-    "HULL NO": "SD7000",
-    "TYPE": "Purse Seine",
+    "HULL NO": "SD8000",
+    "TYPE": "Purse Seiner",
     "SIZE": "Cape Size",
     "ENGINE": "Man B&W 6S70MC",
     "GENERATOR": "Himsen",
