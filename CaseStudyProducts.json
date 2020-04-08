@@ -116,8 +116,8 @@
     "MSRP": 6780000.00,
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
-    "Description": "For COT.",
-    "Company": "Samsung Heavy Indusry"
+    "Description": "For SSH20000.",
+    "Company": "Samsung Heavy Industry"
   },
   {
     "HULL NO": "SSH30000",
@@ -131,8 +131,8 @@
     "MSRP": 6780000.00,
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
-    "Description": "Please enjoy our high quality Bulk Carrier for Cape canal with 175,000 Deadweight Tonnage.",
-    "Company": "Samsung Heavy Indusry"
+    "Description": "For SSH30000.",
+    "Company": "Samsung Heavy Industry"
   },
   {
     "HULL NO": "SSH40000",
@@ -147,7 +147,7 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "Please enjoy our high quality Bulk Carrier for Cape canal with 175,000 Deadweight Tonnage.",
-    "Company": "Samsung Heavy Indusry"
+    "Company": "Samsung Heavy Industry"
   },
   {
     "HULL NO": "SSH50000",
@@ -162,7 +162,7 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "Please enjoy our high quality Bulk Carrier for Cape canal with 175,000 Deadweight Tonnage.",
-    "Company": "Samsung Heavy Indusry"
+    "Company": "Samsung Heavy Industry"
   },
   {
     "HULL NO": "SSH60000",
@@ -177,7 +177,7 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "Shuttle and Regas Vessel.",
-    "Company": "Samsung Heavy Indusry"
+    "Company": "Samsung Heavy Industry"
   },
   {
     "HULL NO": "HD1001",
