@@ -12,7 +12,7 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "This is wonderful Efficiency-focused Bulk Carrier for Cape canal with 171,000 Deadweight Tonnage.",
-    "Company": "Sungdong Shipbuilding and Marine Engineering"
+    "Brand": "Sungdong Shipbuilding and Marine Engineering"
   },
   {
     "HULL NO": "SD2000",
@@ -27,7 +27,7 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "Desc for COT.",
-    "Company": "Sungdong Shipbuilding and Marine Engineering"
+    "Brand": "Sungdong Shipbuilding and Marine Engineering"
   },
   {
     "HULL NO": "SD3000",
@@ -42,7 +42,7 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "Desc for PC.",
-    "Company": "Sungdong Shipbuilding and Marine Engineering"
+    "Brand": "Sungdong Shipbuilding and Marine Engineering"
   },
   {
     "HULL NO": "SD4000",
@@ -57,7 +57,7 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "Desc for Container.",
-    "Company": "Sungdong Shipbuilding and Marine Engineering"
+    "Brand": "Sungdong Shipbuilding and Marine Engineering"
   },
   {
     "HULL NO": "SD5000",
@@ -72,7 +72,7 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "Desc for Container.",
-    "Company": "Sungdong Shipbuilding and Marine Engineering"
+    "Brand": "Sungdong Shipbuilding and Marine Engineering"
   },
   {
     "HULL NO": "SD8000",
@@ -87,7 +87,7 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "Desc for Purse Seine.",
-    "Company": "Sungdong Shipbuilding and Marine Engineering"
+    "Brand": "Sungdong Shipbuilding and Marine Engineering"
   },
   {
     "HULL NO": "SSH10000",
@@ -102,7 +102,7 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "Please enjoy our high quality Bulk Carrier for Cape canal with 175,000 Deadweight Tonnage.",
-    "Company": "Samsung Heavy Industry"
+    "Brand": "Samsung Heavy Industry"
   },
   {
     "HULL NO": "SSH20000",
@@ -117,7 +117,7 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "For SSH20000.",
-    "Company": "Samsung Heavy Industry"
+    "Brand": "Samsung Heavy Industry"
   },
   {
     "HULL NO": "SSH30000",
@@ -132,7 +132,7 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "For SSH30000.",
-    "Company": "Samsung Heavy Industry"
+    "Brand": "Samsung Heavy Industry"
   },
   {
     "HULL NO": "SSH40000",
@@ -147,7 +147,7 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "Please enjoy our high quality Bulk Carrier for Cape canal with 175,000 Deadweight Tonnage.",
-    "Company": "Samsung Heavy Industry"
+    "Brand": "Samsung Heavy Industry"
   },
   {
     "HULL NO": "SSH50000",
@@ -162,7 +162,7 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "Please enjoy our high quality Bulk Carrier for Cape canal with 175,000 Deadweight Tonnage.",
-    "Company": "Samsung Heavy Industry"
+    "Brand": "Samsung Heavy Industry"
   },
   {
     "HULL NO": "SSH60000",
@@ -177,7 +177,7 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "Shuttle and Regas Vessel.",
-    "Company": "Samsung Heavy Industry"
+    "Brand": "Samsung Heavy Industry"
   },
   {
     "HULL NO": "HD1001",
@@ -192,7 +192,7 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "Please enjoy our high quality Bulk Carrier for Cape canal with 175,000 Deadweight Tonnage.",
-    "Company": "Hyundai Heavy Industry"
+    "Brand": "Hyundai Heavy Industry"
   },
   {
     "HULL NO": "HD2001",
@@ -207,7 +207,7 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "Please enjoy our high quality Bulk Carrier for Cape canal with 175,000 Deadweight Tonnage.",
-    "Company": "Hyundai Heavy Industry"
+    "Brand": "Hyundai Heavy Industry"
   },
    {
     "HULL NO": "HD3001",
@@ -222,7 +222,7 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "Please enjoy our high quality Bulk Carrier for Cape canal with 175,000 Deadweight Tonnage.",
-    "Company": "Hyundai Heavy Industry"
+    "Brand": "Hyundai Heavy Industry"
   },
    {
     "HULL NO": "HD4001",
@@ -237,7 +237,7 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "Please enjoy our high quality Bulk Carrier for Cape canal with 175,000 Deadweight Tonnage.",
-    "Company": "Hyundai Heavy Industry"
+    "Brand": "Hyundai Heavy Industry"
   },
    {
     "HULL NO": "HD5001",
@@ -252,7 +252,7 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "Please enjoy our high quality Bulk Carrier for Cape canal with 175,000 Deadweight Tonnage.",
-    "Company": "Hyundai Heavy Industry"
+    "Brand": "Hyundai Heavy Industry"
   },
   {
     "HULL NO": "HD6001",
@@ -267,6 +267,6 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "Please enjoy our high quality Bulk Carrier for Cape canal with 175,000 Deadweight Tonnage.",
-    "Company": "Hyundai Heavy Industry"
+    "Brand": "Hyundai Heavy Industry"
   }
 ]
