@@ -12,7 +12,8 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "This is wonderful cost-effective Bulk Carrier for Cape canal.",
-    "Brand": "Sungdong Shipbuilding and Marine Engineering"
+    "Brand": "Sungdong Shipbuilding and Marine Engineering",
+    "GRAPHICNAME": "SD1000.PNG"
   },
   {
     "HULL NO": "SD2000",
@@ -27,7 +28,8 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "This is wonderful cost-effective Crude Tanker for Panama canal.",
-    "Brand": "Sungdong Shipbuilding and Marine Engineering"
+    "Brand": "Sungdong Shipbuilding and Marine Engineering",
+    "GRAPHICNAME": "SD2000.PNG"
   },
   {
     "HULL NO": "SD3000",
@@ -42,7 +44,8 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "This is an ideal-sized cost-effective Product Tanker.",
-    "Brand": "Sungdong Shipbuilding and Marine Engineering"
+    "Brand": "Sungdong Shipbuilding and Marine Engineering",
+    "GRAPHICNAME": "SD3000.PNG"
   },
   {
     "HULL NO": "SD4000",
@@ -57,7 +60,8 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "This is wonderful cost-effective 8800 TEU Container Vessel.",
-    "Brand": "Sungdong Shipbuilding and Marine Engineering"
+    "Brand": "Sungdong Shipbuilding and Marine Engineering",
+    "GRAPHICNAME": "SD4000.PNG"
   },
   {
     "HULL NO": "SD5000",
@@ -72,7 +76,8 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "This is highly cost-effective offshore FSO with 350K BBL capacity.",
-    "Brand": "Sungdong Shipbuilding and Marine Engineering"
+    "Brand": "Sungdong Shipbuilding and Marine Engineering",
+    "GRAPHICNAME": "SD5000.PNG"
   },
   {
     "HULL NO": "SD8000",
@@ -87,7 +92,8 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "This is high speed purse seine to reduce operation time.",
-    "Brand": "Sungdong Shipbuilding and Marine Engineering"
+    "Brand": "Sungdong Shipbuilding and Marine Engineering",
+    "GRAPHICNAME": "SD8000.PNG"
   },
   {
     "HULL NO": "SSH10000",
@@ -102,7 +108,8 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "This is basic, but high quality cape size Bulk Carrier.",
-    "Brand": "Samsung Heavy Industry"
+    "Brand": "Samsung Heavy Industry",
+    "GRAPHICNAME": "SSH10000.PNG"
   },
   {
     "HULL NO": "SSH20000",
@@ -117,7 +124,8 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "This is high-quality Panamax cost-effective Crude Tanker.",
-    "Brand": "Samsung Heavy Industry"
+    "Brand": "Samsung Heavy Industry",
+    "GRAPHICNAME": "SSH20000.PNG"
   },
   {
     "HULL NO": "SSH30000",
@@ -132,7 +140,8 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "This is an ideal-sized aframax Product Tanker with guranteed quality.",
-    "Brand": "Samsung Heavy Industry"
+    "Brand": "Samsung Heavy Industry",
+    "GRAPHICNAME": "SSH30000.PNG"
   },
   {
     "HULL NO": "SSH40000",
@@ -147,7 +156,8 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "This is high-speed and high-capacity 12,500 TEU Container Vessel.",
-    "Brand": "Samsung Heavy Industry"
+    "Brand": "Samsung Heavy Industry",
+    "GRAPHICNAME": "SSH40000.PNG"
   },
   {
     "HULL NO": "SSH50000",
@@ -162,7 +172,8 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "This is a monster! Ice-breaking  ship with high capacity of drilling.",
-    "Brand": "Samsung Heavy Industry"
+    "Brand": "Samsung Heavy Industry",
+    "GRAPHICNAME": "SSH50000.PNG"
   },
   {
     "HULL NO": "SSH60000",
@@ -177,7 +188,8 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "This is speedy shuttle which has regas capacity of LNG.",
-    "Brand": "Samsung Heavy Industry"
+    "Brand": "Samsung Heavy Industry",
+    "GRAPHICNAME": "SSH60000.PNG"
   },
   {
     "HULL NO": "HD1001",
@@ -192,7 +204,8 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "This Bulk Carrier is from one of the World Best shipyard.",
-    "Brand": "Hyundai Heavy Industry"
+    "Brand": "Hyundai Heavy Industry",
+    "GRAPHICNAME": "HD1001.PNG"
   },
   {
     "HULL NO": "HD2001",
@@ -207,7 +220,8 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "This Tanker is from one of the World Best shipyard.",
-    "Brand": "Hyundai Heavy Industry"
+    "Brand": "Hyundai Heavy Industry",
+    "GRAPHICNAME": "HD2001.PNG"
   },
    {
     "HULL NO": "HD3001",
@@ -222,7 +236,8 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "This Product Tanker from one of the World Best shipyard.",
-    "Brand": "Hyundai Heavy Industry"
+    "Brand": "Hyundai Heavy Industry",
+    "GRAPHICNAME": "HD3001.PNG"
   },
    {
     "HULL NO": "HD4001",
@@ -237,7 +252,8 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "This Container guarantees high capacity with high speed.",
-    "Brand": "Hyundai Heavy Industry"
+    "Brand": "Hyundai Heavy Industry",
+    "GRAPHICNAME": "HD4001.PNG"
   },
    {
     "HULL NO": "HD5001",
@@ -252,7 +268,8 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "This is highly cost-effective LNG Carrier with dual fuel propulsion system.",
-    "Brand": "Hyundai Heavy Industry"
+    "Brand": "Hyundai Heavy Industry",
+    "GRAPHICNAME": "HD5001.PNG"
   },
   {
     "HULL NO": "HD6001",
@@ -267,6 +284,7 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 1,
     "Description": "This is a Ultra Sized LPG Carrier but cost-effective with duel fuel propulsion system.",
-    "Brand": "Hyundai Heavy Industry"
+    "Brand": "Hyundai Heavy Industry",
+    "GRAPHICNAME": "HD6001.PNG"
   }
 ]
